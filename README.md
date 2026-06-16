@@ -24,6 +24,7 @@ and regression analysis.
 
 All three interventions showed statistically significant upper-limb motor recovery compared with 
 conventional physiotherapy. Figure 2 Figure 3 Figure 4
+
 • tDCS vs CRT: (MD) +7.4 FMA points (95% CI: 4.5–10.2; Z=6.61; p<0.00001; I²=54%).
 
 • VR vs CRT: MD +5.5 points (95% CI: 2.9–8.1; Z=4.12; p<0.00001; I²=0%).
